@@ -8,6 +8,7 @@ namespace Arrays
 {
     public class CanPlaceFlower
     {
+        //https://leetcode.com/problems/can-place-flowers/description/
         public bool CanPlaceFlowers(int[] flowerbed, int n)
         {
             for (int i = 0; i < flowerbed.Length; i++)
