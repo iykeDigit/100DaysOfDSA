@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\IKECHUKWU\\Desktop\\100DaysOfDSA\\C#\\Arrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3270936B-FC77-45FE-8028-90F208310626}|Arrays\\Arrays.csproj|c:\\users\\ikechukwu\\desktop\\100daysofdsa\\c#\\arrays\\arrays\\palindromicsequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3270936B-FC77-45FE-8028-90F208310626}|Arrays\\Arrays.csproj|solutionrelative:arrays\\palindromicsequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3270936B-FC77-45FE-8028-90F208310626}|Arrays\\Arrays.csproj|c:\\users\\ikechukwu\\desktop\\100daysofdsa\\c#\\arrays\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3270936B-FC77-45FE-8028-90F208310626}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3270936B-FC77-45FE-8028-90F208310626}|Arrays\\Arrays.csproj|c:\\users\\ikechukwu\\desktop\\100daysofdsa\\c#\\arrays\\arrays\\subarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3270936B-FC77-45FE-8028-90F208310626}|Arrays\\Arrays.csproj|solutionrelative:arrays\\subarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3270936B-FC77-45FE-8028-90F208310626}|Arrays\\Arrays.csproj|c:\\users\\ikechukwu\\desktop\\100daysofdsa\\c#\\arrays\\arrays\\besttimetobuystock2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3270936B-FC77-45FE-8028-90F208310626}|Arrays\\Arrays.csproj|solutionrelative:arrays\\besttimetobuystock2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3270936B-FC77-45FE-8028-90F208310626}|Arrays\\Arrays.csproj|c:\\users\\ikechukwu\\desktop\\100daysofdsa\\c#\\arrays\\arrays\\brickwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3270936B-FC77-45FE-8028-90F208310626}|Arrays\\Arrays.csproj|solutionrelative:arrays\\brickwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3270936B-FC77-45FE-8028-90F208310626}|Arrays\\Arrays.csproj|c:\\users\\ikechukwu\\desktop\\100daysofdsa\\c#\\arrays\\arrays\\tinyurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3270936B-FC77-45FE-8028-90F208310626}|Arrays\\Arrays.csproj|solutionrelative:arrays\\tinyurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3270936B-FC77-45FE-8028-90F208310626}|Arrays\\Arrays.csproj|c:\\users\\ikechukwu\\desktop\\100daysofdsa\\c#\\arrays\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3270936B-FC77-45FE-8028-90F208310626}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +39,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PalindromicSequence.cs",
+              "DocumentMoniker": "C:\\Users\\IKECHUKWU\\Desktop\\100DaysOfDSA\\C#\\Arrays\\Arrays\\PalindromicSequence.cs",
+              "RelativeDocumentMoniker": "Arrays\\PalindromicSequence.cs",
+              "ToolTip": "C:\\Users\\IKECHUKWU\\Desktop\\100DaysOfDSA\\C#\\Arrays\\Arrays\\PalindromicSequence.cs",
+              "RelativeToolTip": "Arrays\\PalindromicSequence.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:17:14.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubArray.cs",
+              "DocumentMoniker": "C:\\Users\\IKECHUKWU\\Desktop\\100DaysOfDSA\\C#\\Arrays\\Arrays\\SubArray.cs",
+              "RelativeDocumentMoniker": "Arrays\\SubArray.cs",
+              "ToolTip": "C:\\Users\\IKECHUKWU\\Desktop\\100DaysOfDSA\\C#\\Arrays\\Arrays\\SubArray.cs",
+              "RelativeToolTip": "Arrays\\SubArray.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:39:13.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BestTimeToBuyStock2.cs",
+              "DocumentMoniker": "C:\\Users\\IKECHUKWU\\Desktop\\100DaysOfDSA\\C#\\Arrays\\Arrays\\BestTimeToBuyStock2.cs",
+              "RelativeDocumentMoniker": "Arrays\\BestTimeToBuyStock2.cs",
+              "ToolTip": "C:\\Users\\IKECHUKWU\\Desktop\\100DaysOfDSA\\C#\\Arrays\\Arrays\\BestTimeToBuyStock2.cs",
+              "RelativeToolTip": "Arrays\\BestTimeToBuyStock2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:07:31.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BrickWall.cs",
               "DocumentMoniker": "C:\\Users\\IKECHUKWU\\Desktop\\100DaysOfDSA\\C#\\Arrays\\Arrays\\BrickWall.cs",
               "RelativeDocumentMoniker": "Arrays\\BrickWall.cs",
@@ -39,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "TinyUrl.cs",
               "DocumentMoniker": "C:\\Users\\IKECHUKWU\\Desktop\\100DaysOfDSA\\C#\\Arrays\\Arrays\\TinyUrl.cs",
               "RelativeDocumentMoniker": "Arrays\\TinyUrl.cs",
@@ -47,18 +98,17 @@
               "RelativeToolTip": "Arrays\\TinyUrl.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T11:50:25.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T11:50:25.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\IKECHUKWU\\Desktop\\100DaysOfDSA\\C#\\Arrays\\Arrays\\Program.cs",
               "RelativeDocumentMoniker": "Arrays\\Program.cs",
               "ToolTip": "C:\\Users\\IKECHUKWU\\Desktop\\100DaysOfDSA\\C#\\Arrays\\Arrays\\Program.cs",
               "RelativeToolTip": "Arrays\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T09:40:47.115Z",
               "EditorCaption": ""
